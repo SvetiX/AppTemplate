@@ -1,4 +1,4 @@
-package ru.cyberforum.reisal78.lesson01.lib;
+package ru.cyberforum.reisal78.lib;
 
 import javax.swing.*;
 import java.awt.*;

@@ -1,8 +1,7 @@
-package ru.cyberforum.reisal78.lesson01.lib;
+package ru.cyberforum.reisal78.lib;
 
 import javax.swing.*;
 import java.awt.*;
-import java.awt.geom.Rectangle2D;
 import java.util.ArrayList;
 import java.util.List;
 
