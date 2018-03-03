@@ -9,10 +9,10 @@ public class Lesson01Application implements Data {
     public static void main(String[] args) {
         Lesson01 lesson01 = new Lesson01JFrame();
         lesson01.setSize(800, 600);
-        lesson01.addShare(rectangle1);
-        lesson01.addShare(rectangle2);
-        lesson01.addShare(rectangle3);
-        lesson01.addShare(rectangle4);
+        lesson01.addShare(share1);
+        lesson01.addShare(share2);
+        lesson01.addShare(share3);
+        lesson01.addShare(share4);
 
 
 
